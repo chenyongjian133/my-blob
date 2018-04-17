@@ -1,0 +1,52 @@
+{
+  "heroCarousal": [{
+      "subtitle": "你好",
+      "subtext": "深圳",
+      "title": "华美下榻，宾至如归，最低99元入住",
+      "desktopImage": "https://assets.oyoroomscdn.com/china/banner-desktop-6.png",
+      "mobileImage": "https://assets.oyoroomscdn.com/china/banner-mobile-6.png"
+    },
+    {
+      "title": "入住、放松、享受",
+      "desktopImage": "https://assets.oyoroomscdn.com/china/banner-desktop-2.jpg",
+      "mobileImage": "https://assets.oyoroomscdn.com/china/banner-mobile-2.jpg"
+    },
+    {
+      "title": "肺潜、浮潜、水上运动",
+      "desktopImage": "https://assets.oyoroomscdn.com/china/banner-desktop-5.jpg",
+      "mobileImage": "https://assets.oyoroomscdn.com/china/banner-mobile-5.jpg"
+    }
+  ],
+  "oyoPromises": {
+    "title": "OYO 承诺",
+    "promises": [{
+        "icon": "bedIcon",
+        "text": "优质睡眠"
+      },
+      {
+        "icon": "wifiIcon",
+        "text": "免费 WiFi"
+      },
+      {
+        "icon": "toiletryIcon",
+        "text": "洗漱用品"
+      },
+      {
+        "icon": "staffIcon",
+        "text": "免忧服务"
+      },
+      {
+        "icon": "sportlessroomIcon",
+        "text": "洁净房间"
+      },
+      {
+        "icon": "sportlessroomIcon",
+        "text": "到店支付"
+      },
+      {
+        "icon": "breakfastIcon",
+        "text": "花式早餐"
+      }
+    ]
+  }
+}
